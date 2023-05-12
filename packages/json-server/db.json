@@ -1,0 +1,65 @@
+{
+    "factions": [ 
+        {
+            "id": 1,
+            "name": "Los Santos Police Department",
+            "type": "LEA",
+            "members": [
+                {
+                    "name": "Imie_Nazwisko",
+                    "uid": 1,
+                    "cid": 1
+                },
+                {
+                    "name": "Imie_Nazwisko",
+                    "uid": 2,
+                    "cid": 2
+                },
+                {
+                    "name": "Imie_Nazwisko",
+                    "uid": 3,
+                    "cid": 3
+                }
+            ]
+        }       
+    ],
+    "characters": [
+        {
+            "id": "1",
+            "name": "Imie_Nazwisko",
+            "uid": 1,
+            "dob": 1674230149111,
+            "sex": 1,
+            "height": 180,
+            "eyeColor": "brown",
+            "weight": 80,
+            "properties": [],
+            "vehicles": []
+        },
+        {
+            "id": "2",
+            "name": "Imie_Nazwisko",
+            "uid": 2,
+            "dob": 1674230149111,
+            "sex": 1,
+            "height": 180,
+            "eyeColor": "brown",
+            "weight": 80,
+            "properties": [],
+            "vehicles": []
+        },
+        {
+            "id": "3",
+            "name": "Imie_Nazwisko",
+            "uid": 3,
+            "dob": 1674230149111,
+            "sex": 0,
+            "height": 180,
+            "weight": 80,
+            "eyeColor": "brown",
+            "properties": [],
+            "vehicles": []
+        }
+
+    ]
+}

@@ -1,0 +1,15 @@
+0 silly argv {
+0 silly argv   _: [ 'run' ],
+0 silly argv   lernaVersion: '5.5.2',
+0 silly argv   '$0': 'C:\\Program Files\\nodejs\\node_modules\\lerna\\cli.js',
+0 silly argv   script: 'dev'
+0 silly argv }
+1 notice cli v5.5.2
+2 verbose rootPath C:\Users\kg968\projekty\vrp-mdt
+3 verbose run nx.json was not found. Task dependencies will not be automatically included.
+4 error Error: Invalid projects:
+4 error     at checkForInvalidProjects (C:\Users\kg968\projekty\vrp-mdt\node_modules\nx\src\command-line\run-many.js:45:15)
+4 error     at projectsToRun (C:\Users\kg968\projekty\vrp-mdt\node_modules\nx\src\command-line\run-many.js:38:5)
+4 error     at C:\Users\kg968\projekty\vrp-mdt\node_modules\nx\src\command-line\run-many.js:23:26
+4 error     at Generator.next (<anonymous>)
+4 error     at fulfilled (C:\Users\kg968\projekty\vrp-mdt\node_modules\tslib\tslib.js:115:62)

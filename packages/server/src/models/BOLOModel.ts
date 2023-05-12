@@ -1,0 +1,1 @@
+//TODO: Zrobic model bolo, na razie nie wiem jeszcze jak dziala xd
